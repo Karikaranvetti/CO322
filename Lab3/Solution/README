@@ -1,0 +1,17 @@
+
+
+
+compile->  javac TestHashTable.java
+
+
+
+run->  Java TestHashTable [number_of_buckets_needed]  [filename]
+
+        ( Ex-> Java Main  30 sample-text1.txt )
+
+
+
+
+
+
+To quit from loop->  quit
