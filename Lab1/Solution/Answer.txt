@@ -1,0 +1,15 @@
+(a) Is there a difference in the runtime between the two implementations when the problem is small?
+	No ,according to the graph bot compilers are take approximately same run time
+
+(b) Is there a difference in the runtime between the two languages?
+	iterative: - negligible difference
+	Recursive:- yes 
+(c) Is there a difference between the way the runtime changes in the two languages?
+	Shape of the curve is similar but run times are differ
+(d) “If the problem is small both algorithms are useful”. Do you agree with this statement? Justify your answer.
+	Yes 
+	According to the graph both algorithms are   taking approximately same runtime		 and that time is very small compared to big problem .
+(e) “If the problem is large fib r is not useful”. Do you agree with this statement? Justify your answer
+	Yes 
+	The problem become large then its take more time compare to iterative method
+	Therefor compared to iterative method recursion method not useful

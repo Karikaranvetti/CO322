@@ -1,0 +1,4 @@
+this is the way of geting the java compiler garaph
+compile - javac Fib.java 
+run -java Fib
+plot-python3 plot.py
